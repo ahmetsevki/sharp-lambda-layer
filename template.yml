@@ -15,6 +15,7 @@ Resources:
       CompatibleRuntimes:
         - nodejs12.x
         - nodejs14.x
+        - nodejs16.x
 
 Outputs:
   LayerVersion:
